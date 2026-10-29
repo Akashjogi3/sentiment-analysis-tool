@@ -1,0 +1,19 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Downloaded IMDb dataset
+aclImdb/
+
+# Saved trained model
+sentiment_model.joblib
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
